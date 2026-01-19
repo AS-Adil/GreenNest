@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@plugin "daisyui/theme" {
+  name: "light";
+  default: true;
+  --color-primary: #222222;
+  --color-secondary: #81BA00;
+}
+
+.active{
+    @apply bg-[#81BA00] text-white rounded-lg
+    font-semibold
+    
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Window Sill Oasis",
+    "description": "Line up small succulents or herbs on your window sill for natural light and fresh air.",
+    "image": "https://i.ibb.co.com/pv4spQRs/Window-Sill-Oasis.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Bathroom Jungle",
+    "description": "Add ferns or peace lilies to your bathroom for a spa‑like, moisture‑loving vibe.",
+    "image": "https://i.ibb.co.com/Tzyqrnk/Bathroom-Jungle.webp"
+  },
+  {
+    "id": 3,
+    "title": "Shelf Styling",
+    "description": "Mix trailing plants with books and candles for a cozy, layered shelf look.",
+    "image": "https://i.ibb.co.com/bMhjx5Yy/book-Shelf.jpg"
+  }
+]

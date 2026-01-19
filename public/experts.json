@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "Darryl Cheng",
+    "specialization": "Creator of House Plant Journal & Author of 'The New Plant Parent'",
+    "image": "https://i.ibb.co.com/zWF3MjgJ/Cheng.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Christopher Satch",
+    "specialization": "Plant Scientist & Former Plant Doctor at The Sill",
+    "image": "https://i.ibb.co.com/mV8G8hQh/Christopher-Satch.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Md Mahbubur Rahman",
+    "specialization": "Founder of Leaf Thrive, Plant Care Expert & Gardener",
+    "image": "https://i.ibb.co.com/VWkmWSHm/Mahbubur-Rahman.jpg"
+  }
+
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "plantId": 1,
+    "plantName": "Snake Plant",
+    "category": "Air Purifier",
+    "price": 18,
+    "rating": 4.8,
+    "availableStock": 45,
+    "careLevel": "Easy",
+    "description": "The **Snake Plant**, also known as Mother-in-Law's Tongue, is a supremely hardy and popular indoor plant renowned for its resilience and striking, upright, sword-like foliage. It's a fantastic **Air Purifier**, effectively removing toxins like benzene, formaldehyde, trichloroethylene, and xylene from indoor air, as demonstrated by NASA studies. One of its greatest advantages is its ability to perform **Crassulacean Acid Metabolism (CAM)**, meaning it absorbs carbon dioxide and releases oxygen primarily at night, making it an excellent choice for bedrooms. It thrives on neglect and can tolerate a wide range of conditions, from low light to bright, indirect light, though direct sun should be avoided to prevent leaf scorch. It's highly drought-tolerant, requiring infrequent watering—only when the soil is completely dry—which makes it a perfect, low-maintenance option for beginners or busy individuals. Overwatering is the most common cause of its demise. Its architectural shape and variegated green-and-yellow leaves add a modern, stylish touch to any interior design scheme, making it an essential addition to any home or office space looking for a blend of aesthetic appeal and health benefits.",
+    "image": "https://i.ibb.co.com/TMRN0N1J/Snake-Plant.webp",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "plantId": 2,
+    "plantName": "ZZ Plant",
+    "category": "Low-Light Survivor",
+    "price": 25,
+    "rating": 4.8,
+    "availableStock": 30,
+    "careLevel": "Very Easy",
+    "description": "The **ZZ Plant**, or Zanzibar Gem, is arguably the toughest houseplant available, earning its reputation as the 'eternity plant' due to its exceptional drought tolerance and ability to thrive in very low-light conditions, even under fluorescent office lighting. Its shiny, dark-green, waxy leaves grow in a graceful, upright manner from thick, water-storing rhizomes beneath the soil, which are the secret to its resilience. This plant is an absolute champion for the forgetful waterer; it prefers to be watered sparingly, allowing the soil to dry out completely between waterings, perhaps only once a month depending on the environment. Overwatering is a serious risk for the ZZ Plant. Beyond its near-indestructibility, it adds a lush, tropical feel to any room with minimal effort. It also contributes to air purification, though its primary appeal is its stunning, deep-green foliage and unparalleled ease of care. It's a superb choice for a beginner or for areas with limited natural light, instantly elevating the space with its glossy, architectural structure.",
+    "image": "https://i.ibb.co.com/qLrkZDGP/ZZ-Plant.webp",
+    "providerName": "Plant Paradise Inc."
+  },
+  {
+    "plantId": 3,
+    "plantName": "Golden Pothos",
+    "category": "Vining/Trailing",
+    "price": 15,
+    "rating": 4.7,
+    "availableStock": 60,
+    "careLevel": "Easy",
+    "description": "The **Golden Pothos**, sometimes called Devil's Ivy, is a beautifully versatile and incredibly easy-to-grow trailing vine, renowned for its heart-shaped, vibrant green leaves often variegated with streaks of yellow or gold. Its common name, 'Devil's Ivy,' comes from its reputation for being nearly impossible to kill and its ability to stay green even when kept in the dark. It is one of the most forgiving houseplants, tolerating a wide range of conditions from low light (where the variegation may fade) to bright, indirect light (which encourages more intense golden markings). As a vine, it can be displayed in multiple ways: hanging from a shelf or basket to let its foliage cascade dramatically, climbing a moss pole for vertical interest, or simply placed on a table. It's a powerhouse air purifier, efficiently filtering out common household toxins. The Pothos is a fast grower, making it highly rewarding for new plant owners. Water when the top inch or two of soil feels dry, and enjoy its prolific, sprawling beauty.",
+    "image": "https://i.ibb.co.com/0Rw4NdCP/Golden-Pothos.webp",
+    "providerName": "Green Thumb Growers"
+  },
+  {
+    "plantId": 4,
+    "plantName": "Fiddle Leaf Fig",
+    "category": "Statement Tree",
+    "price": 75,
+    "rating": 4.5,
+    "availableStock": 15,
+    "careLevel": "Moderate to Hard",
+    "description": "The **Fiddle Leaf Fig** is a highly sought-after, architectural statement houseplant famous for its enormous, heavily veined, violin-shaped leaves that can grow up to 18 inches long. Its dramatic, lush presence makes it a centerpiece in modern and classic interiors, instantly adding height and a touch of the tropics. While visually stunning, it has a reputation for being somewhat **fussy** and requires a bit more dedicated care than other plants on this list. It thrives best in a spot with plenty of bright, filtered light—ideally near a south or west-facing window, but without harsh direct sun which can scorch its leaves. It requires consistent watering; the top couple of inches of soil should dry out between waterings. Drafts, sudden temperature changes, or inconsistent watering can lead to brown spots or leaf drop, so finding the perfect spot and maintaining a routine is key to its happiness and growth. Due to its size potential, it's best for larger rooms or open-plan areas. Dusting its large leaves regularly is necessary to ensure optimal light absorption and maintain its glossy appearance.",
+    "image": "https://i.ibb.co.com/HpLZY8C2/Fiddle-Leaf-Fig.jpg",
+    "providerName": "Botanical Bliss Co."
+  },
+  {
+    "plantId": 5,
+    "plantName": "Monstera Deliciosa",
+    "category": "Tropical Foliage",
+    "price": 40,
+    "rating": 4.9,
+    "availableStock": 22,
+    "careLevel": "Moderate",
+    "description": "The **Monstera Deliciosa**, or Swiss Cheese Plant, is an iconic tropical houseplant beloved for its large, glossy, heart-shaped leaves that develop spectacular natural holes and splits, known as fenestrations, as the plant matures. This characteristic gives it a truly unique and dramatic visual appeal, making it a staple in contemporary and jungle-inspired decor. Native to the tropical rainforests of Mexico and Central America, it prefers a warm, humid environment and bright, indirect light, which is crucial for encouraging its leaves to split properly. Direct sun can burn the leaves, while too little light will result in smaller, unsplit foliage. The Monstera requires moderate, regular watering; allow the top few inches of soil to dry out before watering again. As a climbing vine, it benefits greatly from a moss pole or trellis to support its heavy growth and aerial roots. Mist the leaves occasionally to increase humidity and wipe them down to keep them dust-free and shining. Its rapid, robust growth makes it a satisfying plant to watch and care for.",
+    "image": "https://i.ibb.co.com/99kMMLNn/Monstera-Deliciosa.jpg",
+    "providerName": "The Exotic Planter"
+  },
+  {
+    "plantId": 6,
+    "plantName": "Peace Lily",
+    "category": "Flowering/Air Purifier",
+    "price": 22,
+    "rating": 4.6,
+    "availableStock": 35,
+    "careLevel": "Easy",
+    "description": "The **Peace Lily** is cherished for its elegant, dark-green foliage and its striking white 'flowers' (which are actually a leaf bract surrounding a central spadix). It is one of the few houseplants that reliably produces a bloom indoors and is famous for its powerful **air-purifying abilities**, removing ammonia, acetone, and alcohols. This plant is notably communicative—it dramatically wilts when it's thirsty, making its watering needs straightforward to gauge, though it's best not to wait for the wilt. It prefers consistently moist, but not soggy, soil and thrives in medium to low, indirect light. While it can tolerate low light, brighter indirect light will encourage more profuse blooming. It is sensitive to direct sunlight, which can scorch its leaves. The Peace Lily prefers a humid environment, so occasional misting or placing it near a humidifier is beneficial. It’s an ideal gift and a wonderful addition to homes and offices, symbolizing peace and purification with its beautiful, serene white blossoms.",
+    "image": "https://i.ibb.co.com/WNyVJSCm/Peace-Lily.jpg",
+    "providerName": "Bloom & Grow Nursery"
+  },
+  {
+    "plantId": 7,
+    "plantName": "Spider Plant",
+    "category": "Hanging/Propagator",
+    "price": 12,
+    "rating": 4.7,
+    "availableStock": 70,
+    "careLevel": "Very Easy",
+    "description": "The **Spider Plant** is a classic, easy-care houseplant characterized by its arching, variegated green-and-white striped leaves. Its most charming feature is its production of 'spiderettes'—small, dangling baby plants on long stems—which gives it its common name and makes it an excellent choice for hanging baskets, allowing the babies to cascade freely. These spiderettes are also incredibly easy to propagate, allowing you to quickly multiply your plant collection. It's highly adaptable, tolerating a range of light conditions from bright, indirect light (its favorite) to semi-shade, though direct, intense sunlight should be avoided as it can burn the leaves. It prefers to dry out slightly between waterings. As one of NASA's top air-purifying plants, it excels at removing pollutants like carbon monoxide and xylene. Its resilience, fast growth, and unique form make it a perfect, pet-friendly choice for new plant enthusiasts or those looking for a lively, cascading display.",
+    "image": "https://i.ibb.co.com/GQHTJTWV/Spider-Plant.jpg",
+    "providerName": "Green Thumb Growers"
+  },
+  {
+    "plantId": 8,
+    "plantName": "Rubber Plant",
+    "category": "Statement Foliage",
+    "price": 45,
+    "rating": 4.6,
+    "availableStock": 18,
+    "careLevel": "Moderate",
+    "description": "The **Rubber Plant**, particularly the 'Burgundy' variety, is an imposing and magnificent houseplant known for its thick, leathery, oval leaves that are so deeply pigmented they appear almost black-red or deep burgundy. This rich coloring adds a sophisticated and dramatic focal point to any room. It can grow into a substantial, impressive indoor tree with proper care. The plant thrives in bright, indirect light, which is essential for maintaining the depth of its dark leaf color; lower light conditions can cause the leaves to turn a lighter green. It needs a regular watering schedule, allowing the top inch or two of soil to dry out between applications, but it is less forgiving of overwatering, which can lead to leaf drop. Its sap is milky and can be irritating, so handle carefully. Due to the size and texture of its leaves, it’s a strong candidate for dusting or wiping with a damp cloth to ensure maximum photosynthesis and preserve its signature glossy sheen. Its robust structure and striking color make it a perfect alternative to the Fiddle Leaf Fig for a bold, statement-making plant.",
+    "image": "https://i.ibb.co.com/z3sv4qV/Rubber-Plant.jpg",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "plantId": 9,
+    "plantName": "Bird of Paradise",
+    "category": "Exotic/Tall",
+    "price": 85,
+    "rating": 4.9,
+    "availableStock": 12,
+    "careLevel": "Moderate",
+    "description": "The **Bird of Paradise** (the *Strelitzia nicolai* or Giant variety) is a grand, imposing houseplant that brings an immediate tropical flair to any indoor space, famous for its massive, paddle-shaped, banana-like green leaves. While it's known for its spectacular orange and blue flowers outdoors, indoor specimens are primarily grown for their dramatic, statuesque foliage and vertical presence, which can fill a corner beautifully. This plant requires a substantial amount of **bright light**, ideally direct sun for at least a few hours a day (especially from a south or west-facing window), to grow large and potentially bloom. It is a thirsty plant during its growing season and needs to be watered thoroughly once the top few inches of soil have dried out. As a tropical native, it appreciates high humidity, so regular misting or using a pebble tray is recommended to keep the leaf edges from turning brown. Due to its potential to reach heights of 6 to 10 feet indoors, it's a true statement piece for a large, well-lit room, demanding attention and transforming the space into a lush, exotic retreat. The leaves naturally tend to split over time, which is normal and actually helps it endure windy conditions in its natural habitat.",
+    "image": "https://i.ibb.co.com/C51Zh7JH/Bird-of-Paradise.jpg",
+    "providerName": "Plant Paradise Inc."
+  }
+]
