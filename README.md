@@ -1,16 +1,49 @@
-# React + Vite
+# 🌱 GreenNest – Indoor Plant Care & Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live Site: [https://dazzling-crostata-2dc386.netlify.app/](https://dazzling-crostata-2dc386.netlify.app/)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📖 Overview
 
-## React Compiler
+**GreenNest** is a responsive single-page web application (SPA) built for plant lovers.  
+It allows users to explore indoor plants, read care tips, book expert consultations, and manage their profiles — all in a calming, minimalist design.  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The platform integrates **Firebase Authentication** for secure login/signup, supports Google Sign-In, and uses JSON data for plant listings. Protected routes ensure that sensitive pages like plant details and profile management are accessible only to authenticated users.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- 🌿 **Elegant SPA Layout** with Navbar & Footer visible across all routes  
+- 📊 **Plant Listings** fetched from `plants.json` with details like price, rating, and care level  
+- 🔒 **Secure Authentication** using Firebase (Signup, Login, Google Sign-In, Forgot Password)  
+- 🛡️ **Protected Routes** for Plant Details and Profile management  
+- 🧑‍🌾 **Consultation Booking Form** with success toast notifications  
+- 📝 **Profile Page** with real-time `updateProfile()` for name & photo updates  
+- 💡 **Extra Homepage Section** (e.g., Plant of the Week / Eco Decor Ideas)  
+- 🎨 **Responsive UI** with Tailwind CSS and smooth animations (Swiper.js / Framer Motion)  
+- ✅ **Password Validation** (uppercase, lowercase, min length 6) + toggle show/hide  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Vite, Tailwind CSS, DaisyUI (optional)  
+- **Routing:** React Router DOM  
+- **Authentication:** Firebase Authentication (Email/Password + Google)  
+- **Animations:** Swiper.js, Framer Motion  
+- **Notifications:** react-hot-toast  
+- **Deployment:** Netlify  
+
+---
+
+## 📦 Dependencies
+
+- `react`, `react-dom`, `react-router-dom`  
+- `firebase` for authentication  
+- `tailwindcss`, `daisyui` for styling  
+- `swiper`, `framer-motion` for animations  
+- `react-hot-toast` for toast notifications  
+
+---
