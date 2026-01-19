@@ -13,7 +13,7 @@ const Home = () => {
         <div className='pb-11 space-x-11'
         style={{ backgroundImage: `url(${bgImg})` }}
         
-        >
+        > 
             
             <HeroSlider></HeroSlider>
 

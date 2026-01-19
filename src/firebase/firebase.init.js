@@ -17,12 +17,3 @@ export const app = initializeApp(firebaseConfig);
 
 
 
-/* from assignment 10 
-  apiKey: "AIzaSyADXPBPtgf9sgEbQ0MCiAsT9nQMRqRgbAM",
-  authDomain: "aiventory-bf27b.firebaseapp.com",
-  projectId: "aiventory-bf27b",
-  storageBucket: "aiventory-bf27b.firebasestorage.app",
-  messagingSenderId: "550579616376",
-  appId: "1:550579616376:web:082757dc500d331eabcb8d"
-
-  */

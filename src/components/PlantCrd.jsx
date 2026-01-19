@@ -7,7 +7,7 @@ const PlantCard = ({ plant }) => {
   return (
     <div className="bg-white shadow-md rounded-lg overflow-hidden hover:shadow-xl hover:scale-102 transition duration-300">
       <img
-        src={image}
+        src={image} 
         alt={plantName}
         className="w-full h-75 object-cover"
       />

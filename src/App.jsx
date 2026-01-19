@@ -17,7 +17,7 @@ function App() {
                  <Link to={"/"} className='bg-[#81BA00] px-5 py-3  hover:scale-103 text-white transition  rounded-full text-xl font-bold'>GreenNest</Link>
 
 
-</div>
+</div> 
 
 
 

@@ -10,7 +10,7 @@ const Footer = () => {
            <div className='flex  gap-1'>
               <div>
               
-              </div>
+              </div> 
                <Link to={"/"} className='bg-[#81BA00] px-5 py-3 mb-5 hover:scale-104 transition  rounded-full text-xl font-bold'>GreenNest</Link>
            </div>
           <p>
